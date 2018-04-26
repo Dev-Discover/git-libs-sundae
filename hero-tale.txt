@@ -1,0 +1,34 @@
+NOUN [1]                ________________
+PLACE [2]               ________________
+NOUN [3]                ________________
+NOUN [4]                ________________
+NOUN [5]                ________________
+VERB [6]                ________________
+NOUN [7]                ________________
+PLACE [8]               ________________
+NOUN [9]                ________________
+SILLY WORD [10]         ________________
+VERB (PAST TENSE) [11]  ________________
+VERB (PAST TENSE) [12]  ________________
+NOUN [13]               ________________
+VERB (PAST TENSE) [14]  ________________
+VERB (PAST TENSE) [15]  ________________
+VERB [16]               ________________
+VERB [17]               ________________
+ADVERB [18]             ________________
+
+__________________________________________________
+
+Once upon a time, there was a _______[1]______ who lived in the kingdom of _______[2]______. They were once a hero but had recently lost their _______[3]______.
+
+Everything was awesome in the kingdom, until one day a _______[4]______ came into the castle and stole the sacred _______[5]______. Our hero was called upon by the Queen to _______[6]______. Agreeing to help, our hero saw this as an opportunity to regain their _______[7]______.
+
+While on a walk in the enchanted _______[8]______, they saw a _______[9]______.
+
+"______[10]______!" they yelled. But a mysterious figure came up to them and ______[11]______. Not sure what to do next, the hero  ______[12]______. Startled, the ______[13]______ dropped the sacred item. Amazing luck!
+
+The hero picked it up and ______[14]______.
+
+On their way back to the castle, the hero ______[15]______. Should they return the sacred item to the Queen or should they ______[16]______?
+
+Thinking about the future, our hero decided to ______[17]______ and lived the rest of their days ______[18]______!
