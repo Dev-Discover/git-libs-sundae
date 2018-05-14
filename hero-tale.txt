@@ -1,11 +1,11 @@
 NOUN [1]                ___dog__________
-PLACE [2]               ___Toronto______
-NOUN [3]                ___ice cream____
-NOUN [4]                ___cell phone___
+PLACE [2]               ___Maui_________
+NOUN [3]                ___cupcake______
+NOUN [4]                ___daisy________
 NOUN [5]                ___butterfly____
-VERB [6]                ________________
-NOUN [7]                ________________
-PLACE [8]               ________________
+VERB [6]                ___laugh________
+NOUN [7]                ___chipmunk_____
+PLACE [8]               ___coffee shop__
 NOUN [9]                ________________
 SILLY WORD [10]         ________________
 VERB (PAST TENSE) [11]  ________________
