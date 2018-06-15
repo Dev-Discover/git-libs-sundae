@@ -1,21 +1,21 @@
-NOUN [1]                ___dog__________
-PLACE [2]               ___Maui_________
-NOUN [3]                ___cupcake______
-NOUN [4]                ___daisy________
-NOUN [5]                ___butterfly____
-VERB [6]                ___laugh________
-NOUN [7]                ___chipmunk_____
-PLACE [8]               ___coffee shop__
-NOUN [9]                ________________
-SILLY WORD [10]         ________________
-VERB (PAST TENSE) [11]  ________________
-VERB (PAST TENSE) [12]  ________________
-NOUN [13]               ________________
-VERB (PAST TENSE) [14]  ________________
-VERB (PAST TENSE) [15]  ________________
-VERB [16]               ________________
-VERB [17]               ________________
-ADVERB [18]             ________________
+NOUN [1]                ____cat_________
+PLACE [2]               ____maui________
+NOUN [3]                ____cupcake_____
+NOUN [4]                ____daisy_______
+NOUN [5]                ____potato______
+VERB [6]                ____laugh_______
+NOUN [7]                ____chipmunk____
+PLACE [8]               ____coffee shop_
+NOUN [9]                ____feather_____
+SILLY WORD [10]         ____abracadabra_
+VERB (PAST TENSE) [11]  ____fell________
+VERB (PAST TENSE) [12]  ____flossed_____
+NOUN [13]               ____bunny_______
+VERB (PAST TENSE) [14]  ____lasooed_____
+VERB (PAST TENSE) [15]  ____slipped_____
+VERB [16]               ____dance_______
+VERB [17]               ____fly_________
+ADVERB [18]             ____easily______
 
 __________________________________________________
 
