@@ -1,5 +1,5 @@
 NOUN [1]                ____cat_________
-PLACE [2]               ____maui________
+PLACE [2]               ____Maui________
 NOUN [3]                ____cupcake_____
 NOUN [4]                ____daisy_______
 NOUN [5]                ____potato______
